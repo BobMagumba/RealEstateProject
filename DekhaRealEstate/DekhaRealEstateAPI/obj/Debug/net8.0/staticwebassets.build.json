@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XJZPDrlBfRmdC77IxR6YLhwS9S14jMtjfikaLh2itW4=",
+  "Source": "DekhaRealEstateAPI",
+  "BasePath": "_content/DekhaRealEstateAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

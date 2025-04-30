@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DekhaRealEstate\\DekhaRealEstate.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
