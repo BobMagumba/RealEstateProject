@@ -22,15 +22,15 @@ jobs:
           dotnet-version: '8.0'
 
       - name: Restore dependencies
-        run: dotnet restore DekhaRealEstate/DekhaRealEstate.csproj
+        run: dotnet restore DekhaRealEstate/DekhaRealEstate.sln
 
-      - name: Build with dotnet
-        run: dotnet build DekhaRealEstate/DekhaRealEstate.csproj --configuration Release
+      - name: Build solution
+        run: dotnet build DekhaRealEstate/DekhaRealEstate.sln --configuration Release
 
-      - name: Publish project
-        run: dotnet publish DekhaRealEstate/DekhaRealEstate.csproj --configuration Release --output ./publish
+      - name: Publish Blazor project
+        run: dotnet publish DekhaRealEstate/DekhaRealEstate/DekhaRealEstate.csproj --configuration Release --output ./publish
 
-      - name: Upload artifact for deployment job
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
@@ -43,7 +43,7 @@ jobs:
       name: 'Production'
 
     steps:
-      - name: Download artifact from build job
+      - name: Download artifact
         uses: actions/download-artifact@v4
         with:
           name: .net-app
