@@ -6051,11 +6051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\DekhaRealEstate.csproj",
+      "projectUniqueName": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\DekhaRealEstate.csproj",
       "projectName": "DekhaRealEstate",
-      "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\DekhaRealEstate.csproj",
+      "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\DekhaRealEstate.csproj",
       "packagesPath": "C:\\Users\\bmagu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\obj\\",
+      "outputPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6076,11 +6076,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj": {
-              "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj"
+            "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj": {
+              "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj"
             },
-            "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj"
+            "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj"
             }
           }
         }

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DekhaRealEstate.Client",
   "resources": {
-    "hash": "sha256-NdNb3CPMdkGkYdX/d5Yeg27zH3XkRhRJHj7e3rKHeI4=",
+    "hash": "sha256-N1ovryoKMXEJrssMioF2Dtj3nfRITasvGzszcpVVFPc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "DekhaRealEstate.Client.wasm": "sha256-sZxVgaaBRYwQUZ/EV5ofEcdV0IJYv2rZP2+fVoDkoZo="
+      "DekhaRealEstate.Client.wasm": "sha256-ydP60fwVtab939YUuY9Cwx4anpSBXtGrpDtBV5vGTSE="
     },
     "pdb": {
-      "DekhaRealEstate.Client.pdb": "sha256-CLNrFrqGNcwmkmJ+qwxysbK79uRHSAFNI98utLwLC9g="
+      "DekhaRealEstate.Client.pdb": "sha256-ePaTqt2dZbWgcQIX2u7lAP4xrIg2xD2ERSaFamq46wA="
     }
   },
   "cacheBootResources": true,

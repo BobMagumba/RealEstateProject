@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj": {}
+    "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj": {
+    "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj",
+        "projectUniqueName": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj",
         "projectName": "DekhaRealEstate.Client",
-        "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj",
+        "projectPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj",
         "packagesPath": "C:\\Users\\bmagu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\obj\\",
+        "outputPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DekhaRealEstate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8d7c376fc0d4ee34d9b6ea60315fcb51cd6e09")]
 [assembly: System.Reflection.AssemblyProductAttribute("DekhaRealEstate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DekhaRealEstate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

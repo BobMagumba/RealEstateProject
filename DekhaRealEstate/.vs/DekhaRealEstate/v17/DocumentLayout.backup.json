@@ -1,107 +1,107 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\",
+  "WorkspaceRootPath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6D33B86-69F9-4BBC-AC7F-286C317FAED2}|..\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\realestateclasslibrary\\backendextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D33B86-69F9-4BBC-AC7F-286C317FAED2}|..\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\realestateclasslibrary\\bll\\irealestateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D33B86-69F9-4BBC-AC7F-286C317FAED2}|..\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\realestateclasslibrary\\entities\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestateapi\\controllers\\housescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|solutionrelative:dekharealestateapi\\controllers\\housescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D33B86-69F9-4BBC-AC7F-286C317FAED2}|..\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\realestateclasslibrary\\bll\\realestateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|solutionrelative:dekharealestateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6D33B86-69F9-4BBC-AC7F-286C317FAED2}|..\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\realestateclasslibrary\\dtos\\houseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|solutionrelative:dekharealestateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6D33B86-69F9-4BBC-AC7F-286C317FAED2}|..\\RealEstateClassLibrary\\RealEstateClassLibrary.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\realestateclasslibrary\\dal\\realestatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestateapi\\controllers\\housescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9905F2-85AB-4E1C-AF67-807C1720B288}|DekhaRealEstateAPI\\DekhaRealEstateAPI.csproj|solutionrelative:dekharealestateapi\\controllers\\housescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\layout\\search.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\layout\\search.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\layout\\search.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\testimonials.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\testimonials.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\testimonials.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\layout\\footerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\layout\\footerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\layout\\footerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\propertytype.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\propertytype.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\propertytype.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\propertylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\propertylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\propertylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\propertyagents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\propertyagents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\propertyagents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\layout\\header.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F1B554-0760-4CBE-BA4F-070317149729}|DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60F1B554-0760-4CBE-BA4F-070317149729}|DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60F1B554-0760-4CBE-BA4F-070317149729}|DekhaRealEstate.Client\\DekhaRealEstate.Client.csproj|solutionrelative:dekharealestate.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\realestateapp\\dekharealestate\\dekharealestate\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|c:\\users\\bmagu\\onedrive\\desktop\\baist\\emergingtechnologies\\dekharealestate\\realestateproject\\dekharealestate\\dekharealestate\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1750F130-B808-43CA-BA45-442B2B38E9D6}|DekhaRealEstate\\DekhaRealEstate.csproj|solutionrelative:dekharealestate\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -119,354 +119,329 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IRealEstateServices.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
-              "RelativeDocumentMoniker": "..\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
-              "RelativeToolTip": "..\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T05:21:54.161Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstateAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DekhaRealEstateAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstateAPI\\appsettings.json",
+              "RelativeToolTip": "DekhaRealEstateAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T06:19:24.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
+              "Title": "IRealEstateServices.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
+              "RelativeToolTip": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\BLL\\IRealEstateServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:21:54.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\bmagu\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json",
               "ToolTip": "C:\\Users\\bmagu\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b53111da-11b3-4c6f-b712-8661bbb7ca20\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-29T05:13:03.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstateAPI\\Program.cs",
-              "RelativeDocumentMoniker": "DekhaRealEstateAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstateAPI\\Program.cs",
-              "RelativeToolTip": "DekhaRealEstateAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T05:11:51.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BackEndExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs",
-              "RelativeDocumentMoniker": "..\\RealEstateClassLibrary\\BackEndExtensions.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs",
-              "RelativeToolTip": "..\\RealEstateClassLibrary\\BackEndExtensions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T05:03:53.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RealEstateServices.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
-              "RelativeDocumentMoniker": "..\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
-              "RelativeToolTip": "..\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:40:58.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "House.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs",
-              "RelativeDocumentMoniker": "..\\RealEstateClassLibrary\\Entities\\House.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs",
-              "RelativeToolTip": "..\\RealEstateClassLibrary\\Entities\\House.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:41:30.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Program.cs",
               "RelativeDocumentMoniker": "DekhaRealEstate\\Program.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Program.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Program.cs",
               "RelativeToolTip": "DekhaRealEstate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T08:37:07.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\About.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\About.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\About.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\About.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:24:10.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HousesController.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstateAPI\\Controllers\\HousesController.cs",
-              "RelativeDocumentMoniker": "DekhaRealEstateAPI\\Controllers\\HousesController.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstateAPI\\Controllers\\HousesController.cs",
-              "RelativeToolTip": "DekhaRealEstateAPI\\Controllers\\HousesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T05:54:26.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HouseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
-              "RelativeDocumentMoniker": "..\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
-              "RelativeToolTip": "..\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:37:46.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RealEstateContext.cs",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
-              "RelativeDocumentMoniker": "..\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
-              "RelativeToolTip": "..\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:32:51.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\appsettings.json",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\appsettings.json",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\appsettings.json",
-              "RelativeToolTip": "DekhaRealEstate\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-27T23:37:16.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Testimonials.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
-              "ViewState": "AgIAADQAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:21:00.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Search.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Search.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\Search.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Search.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\Search.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:08:40.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Contact.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Contact.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Contact.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Contact.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Contact.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:25:05.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PropertyList.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAWwEQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:14:19.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FooterPage.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwEAAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:03:03.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\App.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\App.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\App.razor",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwC0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:36:45.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T08:16:49.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PropertyType.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:12:00.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Header.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Header.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\Header.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Header.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\Header.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:02:53.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PropertyAgents.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
-              "ViewState": "AgIAAEsAAAAAAAAAAIBJwF8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T07:16:31.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T05:20:44.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T05:21:35.733Z",
-              "EditorCaption": ""
+              "Title": "BackEndExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\BackEndExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:03:53.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T05:21:28.211Z",
-              "EditorCaption": ""
+              "Title": "RealEstateServices.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
+              "RelativeToolTip": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\BLL\\RealEstateServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:40:58.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs",
+              "RelativeToolTip": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\Entities\\House.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:41:30.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\About.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\About.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T05:21:00.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T07:24:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HousesController.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstateAPI\\Controllers\\HousesController.cs",
+              "RelativeDocumentMoniker": "DekhaRealEstateAPI\\Controllers\\HousesController.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstateAPI\\Controllers\\HousesController.cs",
+              "RelativeToolTip": "DekhaRealEstateAPI\\Controllers\\HousesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T05:54:26.161Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "HouseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\DTOs\\HouseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:37:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RealEstateContext.cs",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
+              "RelativeToolTip": "..\\..\\..\\RealEstateApp\\RealEstateClassLibrary\\DAL\\RealEstateContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:32:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\appsettings.json",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\appsettings.json",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\appsettings.json",
+              "RelativeToolTip": "DekhaRealEstate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T23:37:16.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Testimonials.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Testimonials.razor",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:21:00.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Search.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\Search.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Search.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\Search.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:08:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Contact.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Contact.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:25:05.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyList.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\PropertyList.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAWwEQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:14:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FooterPage.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\FooterPage.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwEAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:03:03.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\App.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\App.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\App.razor",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:36:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T08:16:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PropertyType.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\PropertyType.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:12:00.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Header.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Header.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\Header.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\Header.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\Header.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:02:53.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropertyAgents.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\PropertyAgents.razor",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBJwF8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T07:16:31.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T05:20:44.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T05:21:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T05:21:28.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "DekhaRealEstate\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T05:21:00.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "DekhaRealEstate.Client\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate.Client\\Pages\\Counter.razor",
               "RelativeToolTip": "DekhaRealEstate.Client\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T05:20:18.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T05:20:18.121Z"
             }
           ]
         },
@@ -477,6 +452,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",

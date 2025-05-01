@@ -10,3 +10,16 @@ C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\RealEst
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.pdb
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\RealEstateClassLibrary\obj\Debug\net8.0\ref\RealEstateClassLibrary.dll
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.csproj.AssemblyReference.cache
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\bin\Debug\net8.0\RealEstateClassLibrary.deps.json
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\bin\Debug\net8.0\RealEstateClassLibrary.dll
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\bin\Debug\net8.0\RealEstateClassLibrary.pdb
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.csproj.AssemblyReference.cache
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.AssemblyInfoInputs.cache
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.AssemblyInfo.cs
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.sourcelink.json
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.dll
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\refint\RealEstateClassLibrary.dll
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\RealEstateClassLibrary.pdb
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\RealEstateClassLibrary\obj\Debug\net8.0\ref\RealEstateClassLibrary.dll

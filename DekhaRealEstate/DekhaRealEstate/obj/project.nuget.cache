@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+iZB+hcw4Q=",
+  "dgSpecHash": "2CwDEosm46w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\RealEstateApp\\DekhaRealEstate\\DekhaRealEstate\\DekhaRealEstate.csproj",
+  "projectFilePath": "C:\\Users\\bmagu\\OneDrive\\Desktop\\BAIST\\EmergingTechnologies\\DekhaRealEstate\\RealEstateProject\\DekhaRealEstate\\DekhaRealEstate\\DekhaRealEstate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bmagu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\bmagu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
