@@ -14,7 +14,7 @@ public class Program
         // Add services to the container.
         builder.Services.AddRazorComponents()
             .AddInteractiveWebAssemblyComponents();
-        builder.Services.AddSwaggerGen();
+       
 
         builder.Services.AddDbContext<RealEstateContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -35,8 +35,7 @@ public class Program
             //app.UseSwagger();
             //app.UseSwaggerUI();
         }
-        app.UseSwagger();
-        app.UseSwaggerUI();
+        
 
         app.UseHttpsRedirection();
 
