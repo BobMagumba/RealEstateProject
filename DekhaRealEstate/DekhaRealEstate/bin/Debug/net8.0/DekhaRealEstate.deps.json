@@ -1310,7 +1310,8 @@
       },
       "DekhaRealEstate.Client/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Components.WebAssembly": "8.0.13"
+          "Microsoft.AspNetCore.Components.WebAssembly": "8.0.13",
+          "RealEstateClassLibrary": "1.0.0"
         },
         "runtime": {
           "DekhaRealEstate.Client.dll": {

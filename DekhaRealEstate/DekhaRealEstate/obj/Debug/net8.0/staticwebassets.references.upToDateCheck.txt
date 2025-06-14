@@ -26,3 +26,6 @@ C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\DekhaRe
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\DekhaRealEstate\DekhaRealEstate.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\RealEstateApp\DekhaRealEstate\DekhaRealEstate.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate.Client\obj\Debug\net8.0\staticwebassets.build.json

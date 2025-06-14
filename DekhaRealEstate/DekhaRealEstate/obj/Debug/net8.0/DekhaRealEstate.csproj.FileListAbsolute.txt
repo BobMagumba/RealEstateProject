@@ -408,12 +408,6 @@ C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealE
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets\msbuild.DekhaRealEstate.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets\msbuild.DekhaRealEstate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets\msbuild.build.DekhaRealEstate.props
-C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DekhaRealEstate.props
-C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DekhaRealEstate.props
-C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\DekhaRea.F1E6F110.Up2Date
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\DekhaRealEstate.dll
@@ -421,3 +415,4 @@ C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealE
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\DekhaRealEstate.pdb
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\DekhaRealEstate.genruntimeconfig.cache
 C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\ref\DekhaRealEstate.dll
+C:\Users\bmagu\OneDrive\Desktop\BAIST\EmergingTechnologies\DekhaRealEstate\RealEstateProject\DekhaRealEstate\DekhaRealEstate\obj\Debug\net8.0\staticwebassets.build.json.cache
